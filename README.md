@@ -24,6 +24,8 @@ The purpose of this dataset is to train a GAN model to generate realistic images
 Realistic scenes will be generatd by GANs with multiple models that have full context of an object i.e. car, trees, road, sky, building, people, etc...
 
 # Chair Gans Context Dataset
+For our starting point we chose a 3D model of a chair because it is free, small sized and is quick for generating 2D images
+
 Link to ChairGansContext dataset goes here <>
 
 ChairGansContext dataset is created with the following: 
