@@ -8,12 +8,10 @@ GANs do not have any context when generating images: hence images look like this
 
 <img src="https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg" width="350" title="https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg"></img>
 
-This image will not fool any human
-
 # Purpose & Code Description
 Starting this repository to give GANs context from 3D models to generate realistic images like this 
 
-<img src="https://c8.alamy.com/comp/KCHN11/business-people-sitting-around-meeting-table-talking-and-working-with-KCHN11.jpg" width="350" title="https://c8.alamy.com/comp/KCHN11/business-people-sitting-around-meeting-table-talking-and-working-with-KCHN11.jpg"></img>
+<img src="https://c8.alamy.com/comp/AJ55D5/cars-driving-down-residential-suburban-road-south-manchester-uk-AJ55D5.jpg" width="350" title="https://c8.alamy.com/comp/AJ55D5/cars-driving-down-residential-suburban-road-south-manchester-uk-AJ55D5.jpg"></img>
 
 3DModel-to-2DImage-Generator.py in this repo reads a 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position
 
@@ -22,6 +20,8 @@ The code in this repo rotates a 3D model around it's (x, y, z) axis to generate 
 <img src="https://cdn-images-1.medium.com/freeze/max/1000/1*FOra0GuA7DqhNGOPBwVNzg.png" width="350" title="https://cdn-images-1.medium.com/freeze/max/1000/1*FOra0GuA7DqhNGOPBwVNzg.png">
 
 The purpose of this dataset is to train a GAN model to generate realistic images of a chair from any perspective and to move the research into having GANs generate complex realistic scenes
+
+Realistic scenes will be generatd by GANs with multiple models that have full context of an object i.e. car, trees, road, sky, building, people, etc...
 
 # Chair Gans Context Dataset
 Link to ChairGansContext dataset goes here <>
