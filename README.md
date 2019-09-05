@@ -21,3 +21,10 @@ ChairGansContext dataset is created with the following:
 * Elevation range 0 to 180 degrees, with an increment of 1 degree
 * Azimuth range 0 to 360 degrees, with an increment of 1 degree
 * Distance range 5 to 25, with an increment of 1
+
+ChairGansContext dataset only has one class "chair"
+
+The naming convention for images: elev(E)-axiz(A)-dist(D).png
+* Where E has a range from 0 to 180
+* Where A has a range from 0 to 360
+* Where D has a range from 5 to 25
