@@ -1,4 +1,4 @@
-# Gans DataSets
+# Gans Context DataSets
 GANs Context Datasets Sponsored by Rauxa
 
 GANs do not have any context when generating images
