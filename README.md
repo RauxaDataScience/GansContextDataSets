@@ -23,7 +23,7 @@ The code in this repo rotates a 3D model around it's (x, y, z) axis to generate 
 
 The purpose of this dataset is to train a GAN model to generate realistic images of a chair from any perspective and to move the research into having GANs generate complex realistic scenes
 
-Realistic scenes will be generatd by GANs with multiple models that have full context of an object i.e. car, trees, road, sky, building, people, etc...
+Realistic scenes will be generatd by GANs with multiple models that have full context of an object i.e. car, tree, road, sky, building, people, sign, etc...
 
 # Chair Gans Context Dataset
 For our starting point we chose a 3D model of a chair because it is free, small sized and is quick for generating 2D images
