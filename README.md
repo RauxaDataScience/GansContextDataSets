@@ -5,6 +5,7 @@ GANs Context Datasets is Sponsored by Rauxa
 GANs do not have any context when generating images: hence images look like this 
 
 (click on image to view in a bigger size)
+
 <img src="https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg" width="350" title="https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg"></img>
 
 This image will not fool any human
