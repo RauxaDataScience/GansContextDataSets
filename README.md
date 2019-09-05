@@ -18,6 +18,6 @@ The purpose of this dataset is to train a GAN model to generate realistic images
 Link to ChairGansContext dataset goes here <>
 
 ChairGansContext dataset is created with the following: 
-* Elevation range 0 to 180, with an increment of 1 
-* Azimuth range 0 to 360, with an increment of 1
+* Elevation range 0 to 180 degrees, with an increment of 1 degree
+* Azimuth range 0 to 360 degrees, with an increment of 1 degree
 * Distance range 5 to 25, with an increment of 1
