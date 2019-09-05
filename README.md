@@ -11,6 +11,8 @@ Code in this repo reads a 3D models with .STL extensions and uses elevation, azi
 
 The code in this repo rotates a 3D model around it's (x, y, z) axis to generate an image of the model from every angle.
 
+![alt text](https://cdn-images-1.medium.com/freeze/max/1000/1*FOra0GuA7DqhNGOPBwVNzg.png?q=20)
+
 The purpose of this dataset is to train a GAN model to generate realistic images of a chair and to move the research into having GANs generate complex realistic scenes.
 
 Link to ChairGansContext dataset goes here <>
