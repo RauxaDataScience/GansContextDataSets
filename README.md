@@ -2,10 +2,15 @@
 GANs Context Datasets is Sponsored by Rauxa
 
 # Current state of GANs
-GANs do not have any context when generating images: hence images look like this [pix2pixHD](https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg)
+GANs do not have any context when generating images: hence images look like this 
+<img src="https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg" width="350" title="https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg"></img>
+
+This image will not fool any human
+
 
 # Purpose & Code Description
-Starting this repository to give GANs context from 3D models to generate realistic images lik this [Image](https://c8.alamy.com/comp/KCHN11/business-people-sitting-around-meeting-table-talking-and-working-with-KCHN11.jpg)
+Starting this repository to give GANs context from 3D models to generate realistic images lik this 
+<img src="https://c8.alamy.com/comp/KCHN11/business-people-sitting-around-meeting-table-talking-and-working-with-KCHN11.jpg" width="350" title="https://c8.alamy.com/comp/KCHN11/business-people-sitting-around-meeting-table-talking-and-working-with-KCHN11.jpg"></img>
 
 3DModel-to-2DImage-Generator.py in this repo reads a 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position
 
