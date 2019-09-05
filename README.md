@@ -7,7 +7,9 @@ Starting this repository to begin giving GANs context from 3D models to generate
 
 This repo is a starting point to start generating realistic images with GANs.
 
-Code in this repo reads a 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position.
+Code in this repo reads a 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position. 
+
+The code in this repo rotates a 3D model around it's x,y,z axis to generate an image of the model from every angle.
 
 Link to ChairGansContext dataset goes here <>
 
