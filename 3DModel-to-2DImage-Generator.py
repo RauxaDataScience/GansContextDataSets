@@ -23,7 +23,7 @@ def generate_save_figure(elev,azim,dist):
     pyplot.close('all')
 
 for elev in range(0,180,1):
-    for azim in range(-360,360,1):
+    for azim in range(0,360,1):
         for dist in range(5,25,1):
             generate_save_figure(elev,azim,dist)
                 
