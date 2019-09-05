@@ -5,7 +5,7 @@ GANs do not have any context when generating images: hence images look like this
 
 Starting this repository to start giving GANs context from 3D models to generate realistic images
 
-Code in this repo reads a 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position
+3DModel-to-2DImage-Generator in this repo reads a 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position
 
 The code in this repo rotates a 3D model around it's (x, y, z) axis to generate an image of the model from every angle
 
