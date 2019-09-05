@@ -3,9 +3,7 @@ GANs Context Datasets Sponsored by Rauxa
 
 GANs do not have any context when generating images: hence images look like this [pix2pixHD](https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg)
 
-Starting this repository to begin giving GANs context from 3D models to generate realistic images
-
-This repo is a starting point to start generating realistic images with GANs
+Starting this repository to start giving GANs context from 3D models to generate realistic images
 
 Code in this repo reads a 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position
 
