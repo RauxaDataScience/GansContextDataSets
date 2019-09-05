@@ -24,7 +24,7 @@ ChairGansContext dataset is created with the following:
 
 ChairGansContext dataset only has one class "chair"
 
-The naming convention for images: elev(E)-axiz(A)-dist(D).png
+The naming convention for images: elev(E)-azim(A)-dist(D).png
 * Where E has a range from 0 to 180
 * Where A has a range from 0 to 360
 * Where D has a range from 5 to 25
