@@ -28,3 +28,6 @@ The naming convention for images: elev(E)-azim(A)-dist(D).png
 * Where E has a range from 0 to 180
 * Where A has a range from 0 to 360
 * Where D has a range from 5 to 25
+
+
+Link to the 3D model of the chair [View/Render 3D Model with Browser](https://pinshape.com/items/17795-3d-printed-chair)
