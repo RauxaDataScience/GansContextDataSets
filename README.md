@@ -19,9 +19,3 @@ ChairGansContext dataset is created with the following:
    1. Elevation range 0 to 180, with an increment of 1
       1.1 Azimuth range -360 to 360, with an increment of 1
          1.2 Distance range 5 to 25, with an increment of 1
-
-
-
-General Public License
-
-For research purposes only, no commercial use.
