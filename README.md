@@ -13,6 +13,8 @@ The code in this repo rotates a 3D model around it's (x, y, z) axis to generate 
 
 ![alt text](https://cdn-images-1.medium.com/freeze/max/1000/1*FOra0GuA7DqhNGOPBwVNzg.png?q=20)
 
+<img src="https://cdn-images-1.medium.com/freeze/max/1000/1*FOra0GuA7DqhNGOPBwVNzg.png" width="350" title="hover text">
+
 The purpose of this dataset is to train a GAN model to generate realistic images of a chair and to move the research into having GANs generate complex realistic scenes
 
 Link to ChairGansContext dataset goes here <>
