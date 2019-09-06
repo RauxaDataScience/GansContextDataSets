@@ -2,14 +2,16 @@
 GANs Context Datasets is Sponsored by Rauxa
 
 # Current state of GANs
-GANs do not have any context when generating images: hence images look like this 
+GANs do not have any context when generating images: hence GAN generated images of folding chairs look like this 
 
 (click on image to view in a bigger size)
 
 <img src="https://github.com/RauxaDataScience/GansContextDataSets/blob/master/BigGan512FoldingChairGenerated.JPG" width="350"></img>
 
 # Purpose & Code Description
-Starting this repository to give GANs context from 3D models to generate realistic images like this 
+Starting this repository to give GANs context from 3D models to generate realistic images of chairs like this 
+
+(real images of chairs from the internet)
 
 <img src="https://github.com/RauxaDataScience/GansContextDataSets/blob/master/RealChairs.JPG" width="350"></img>
 
