@@ -6,7 +6,7 @@ GANs do not have any context when generating images: hence images look like this
 
 (click on image to view in a bigger size)
 
-<img src="https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg" width="350" title="https://github.com/NVIDIA/pix2pixHD/blob/master/imgs/cityscapes_2.jpg"></img>
+<img src="https://github.com/RauxaDataScience/GansContextDataSets/blob/master/BigGan512FoldingChairGenerated.JPG" width="350"></img>
 
 # Purpose & Code Description
 Starting this repository to give GANs context from 3D models to generate realistic images like this 
