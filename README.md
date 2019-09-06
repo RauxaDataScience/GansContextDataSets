@@ -11,9 +11,7 @@ GANs do not have any context when generating images: hence images look like this
 # Purpose & Code Description
 Starting this repository to give GANs context from 3D models to generate realistic images like this 
 
-(random image found on the internet)
-
-<img src="https://c8.alamy.com/comp/AJ55D5/cars-driving-down-residential-suburban-road-south-manchester-uk-AJ55D5.jpg" width="350" title="https://c8.alamy.com/comp/AJ55D5/cars-driving-down-residential-suburban-road-south-manchester-uk-AJ55D5.jpg"></img>
+<img src="https://github.com/RauxaDataScience/GansContextDataSets/blob/master/RealChairs.JPG" width="350"></img>
 
 3DModel-to-2DImage-Generator.py in this repo reads a 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position
 
