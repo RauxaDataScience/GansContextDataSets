@@ -1,5 +1,5 @@
 # Gans Context DataSets
-GANs Context Datasets is Sponsored by Rauxa
+Generative Adversarial Networks(GANs) Context Datasets is Sponsored by Rauxa
 
 # Current state of GANs
 GANs do not have any context when generating images: hence GAN generated images of folding chairs look like this 
