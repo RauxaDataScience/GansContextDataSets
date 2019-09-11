@@ -1,0 +1,1 @@
+folder to hold images from 3D model

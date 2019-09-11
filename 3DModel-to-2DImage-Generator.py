@@ -17,7 +17,7 @@ def generate_save_figure(elev,azim,dist):
     axes.view_init(elev=elev,azim=azim)
     axes.dist = dist
     axes.autoscale(True)
-    figure.savefig('./numpy-stl-images/elev({})-azim({})-dist({}).png'.format(elev,azim,dist))   
+    figure.savefig('./images/elev({})-azim({})-dist({}).png'.format(elev,azim,dist))   
     print('saved elev {}, azim {}, dist {}'.format(elev,azim,dist))
     del figure,axes,scale
     pyplot.close('all')
