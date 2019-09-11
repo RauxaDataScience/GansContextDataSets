@@ -4,7 +4,7 @@ from stl import mesh
 from mpl_toolkits import mplot3d
 from matplotlib import pyplot
 
-stl_mesh = mesh.Mesh.from_file('./chair.stl')
+stl_mesh = mesh.Mesh.from_file('.3D Models/chair.stl')
 
 def generate_save_figure(elev,azim,dist):         
     figure = pyplot.figure(figsize=(1,1))
@@ -17,7 +17,7 @@ def generate_save_figure(elev,azim,dist):
     axes.view_init(elev=elev,azim=azim)
     axes.dist = dist
     axes.autoscale(True)
-    figure.savefig('./images/elev({})-azim({})-dist({}).png'.format(elev,azim,dist))   
+    figure.savefig('./Images/elev({})-azim({})-dist({}).png'.format(elev,azim,dist))   
     print('saved elev {}, azim {}, dist {}'.format(elev,azim,dist))
     del figure,axes,scale
     pyplot.close('all')
