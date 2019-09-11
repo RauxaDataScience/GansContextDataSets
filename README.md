@@ -30,7 +30,7 @@ Realistic scenes will be generatd by GANs with multiple models that have full co
 # Chair Gans Context Dataset
 For our starting point we chose a 3D model of a chair because it is free, small sized and is quick for generating 1+ million 2D images
 
-Link to ChairGansContext dataset goes here <>
+Link to ChairGansContext dataset with 1.3 million images goes here <>
 
 ChairGansContext dataset is created with the following: 
 * Elevation range 0 to 180 degrees, with an increment of 1 degree
