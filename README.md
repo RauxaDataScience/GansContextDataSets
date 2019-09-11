@@ -15,7 +15,7 @@ Starting this repository to give GANs context from 3D models to generate realist
 
 (real images of chairs from the internet)
 
-<img src="https://github.com/RauxaDataScience/GansContextDataSets/blob/master/RealChairs.JPG" width="350"></img>
+<img src="https://github.com/RauxaDataScience/GansContextDataSets/blob/master/github/RealChairs.JPG" width="350"></img>
 
 3DModel-to-2DImage-Generator.py in this repo reads 3D models with .STL extensions and uses elevation, azimuth & distance to generate images of the 3D model from every possible position
 
